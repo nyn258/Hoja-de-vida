@@ -1,0 +1,15 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="122" width="122" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-style="italic" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="43" id="svg_1" y="76" x="28" stroke-width="0" stroke="#000" fill="#000000">NA</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="55.5" x="75.5" stroke-width="0" fill="#000000"/>
+  <path transform="translate(104.5,63.5) scale(0.005) translate(-104.5,-63.5)" id="svg_3" d="m95.436248,288.555063l2.250002,-10.000003l0,5.000002l3.374998,0l0,-15.000005l-1.125,0l2.250001,-10.000003l2.250001,10.000003l-1.125,0l0,25.000008l-5.624999,0l0,5.000002l-2.250002,-10.000003l0,0z" stroke-width="0" stroke="#000" fill="#000000"/>
+  <path id="svg_4" d="m59.4375,91.097508l14.75001,-19.250002l0,9.625001l22.124985,0l0,-28.875004l-7.375001,0l14.750002,-19.250002l14.750002,19.250002l-7.375001,0l0,48.125006l-36.874982,0l0,9.625001l-14.750012,-19.250002l-0.000002,0z" stroke-width="0" stroke="#000" fill="#000000"/>
+  <path transform="rotate(180 30.937498092651367,44.847503662109375) " id="svg_5" d="m1.4375,64.097508l14.750009,-19.250002l0,9.625001l22.124985,0l0,-28.875004l-7.375001,0l14.750002,-19.250002l14.750001,19.250002l-7.375,0l0,48.125006l-36.874983,0l0,9.625002l-14.750011,-19.250003l-0.000002,0z" stroke-width="0" stroke="#000" fill="#000000"/>
+ </g>
+</svg>
